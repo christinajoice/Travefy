@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ParallelSuite" parallel="methods">
+  <test name="Test">
+    <classes>
+      <class name="ConfigExecution.executionEngine.DriverScript"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,36 @@
+[{
+ 	
+    "checkin": {
+        "Lockbox":"1577472",
+        "blue":"148037",
+        "hub":"148037",
+        "oaks":"10303020",
+        "msr": "1007003",
+        "v3" : "10001276"
+    },
+    "propertyID":{
+        "Lockbox":"4505814",
+        "v2":"4505912",
+        "hub":"4505912",
+        "oaks":"4505879",
+        "v3": "4526935"
+    },
+    "verified_renter": {
+        "first_name": "SAMANTHA",
+        "middle_name": "G",
+        "last_name": "HANNAH",
+        "DOB_date": "21",
+        "DOB_month": "feb",
+        "DOB_year": "2001",
+        "Address": "1805 MINDY LN",
+        "city":"PISCATAWAY",
+        "zipcode": "08854",
+        "ssn": "666455634",
+        "state": "NJ",
+        "month": "feb",
+        "date": "21",
+        "year": "2025",
+        "income": "200000",
+        "co_applicant_name": "Anime Freak"
+    }
+    }]

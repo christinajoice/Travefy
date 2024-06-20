@@ -1,0 +1,12 @@
+[
+  {
+    "trip":{
+      "newtrip": "By.xpath('//div[contains(text(),'New Trip')]')",
+      "itinerary": "By.xpath('//li[contains(text(),'Itinerary')]')",
+      "Day1": "By.xpath('//span[contains(text(),'Day 1')]')",
+      "setDatetextbox": "By.xpath('//input[@placeholder='Set a Date']')",
+      "currentdate": "By.id('calcurrent')",
+      "Done": "By.xpath('//span[contains(text(),'Done')]')"
+    }
+  }
+]

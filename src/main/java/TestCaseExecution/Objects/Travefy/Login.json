@@ -1,0 +1,9 @@
+[
+  {
+    "Login":{
+      "email": "By.id('LoginEmail')",
+      "password": "By.id('LoginPassword')",
+      "login_btn": "By.xpath('//span[contains(text(),'Log In')]')"
+    }
+  }
+]
