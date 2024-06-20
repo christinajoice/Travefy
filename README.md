@@ -10,4 +10,5 @@ Flows Automated:<br>
 - Login Flow <br>
 - New Trip (itinerary) <br>
 </div>
+
 ## Tech Stack used : Selenium, Java, Maven, POM, TestNG
